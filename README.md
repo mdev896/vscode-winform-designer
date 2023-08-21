@@ -4,6 +4,10 @@ https://github.com/mdev896/vscode-winform-editor/assets/139204385/375aefd3-11fe-
 
 This project adds option to open cs form file (file.Designer.cs) in winforms editor. Editor used is opensourced, you can find it here: https://github.com/hry2566/SWD4CS
 
+## Updates
+
+Going to add option to create new project and compile&run the project, just wait.
+
 ## Installation
 
 I included a compiled version of swd4cs in repo. you just need to put that folder under %appdata%\vscode (or %appdata%\vscodium) then install the extension.
