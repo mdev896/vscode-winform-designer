@@ -13,6 +13,6 @@ There are 2 uses for this:
 
 First is that you can open command palette(ctrl+shift+p) and select "Winforms: Open Designer", this will open designer without a file in it and you have to select it yourself.
 
-Second is that you right-click the file and select "Winforms: Open file in designer", that will open a new window woth designer.
+Second is that you right-click the file and select "Winforms: Open file in designer", that will open a new window with designer.
 
 ## Thank You for considering my extension
