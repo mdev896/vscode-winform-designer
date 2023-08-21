@@ -1,7 +1,7 @@
 
 # Winforms Designer Extension
 
-This project add option to open cs form file ($file$.Designer.cs) in winforms editor. Editor used is opensourced, you can find it here: https://github.com/hry2566/SWD4CS
+This project adds option to open cs form file (file.Designer.cs) in winforms editor. Editor used is opensourced, you can find it here: https://github.com/hry2566/SWD4CS
 
 ## Installation
 
