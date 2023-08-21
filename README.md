@@ -7,7 +7,7 @@ This project adds option to open cs form file (file.Designer.cs) in winforms edi
 
 ## Updates
 
-Going to add option to create new project and compile&run the project, just wait.
+We will see...
 
 ## Installation
 
@@ -21,7 +21,6 @@ First is that you can open command palette(ctrl+shift+p) and select "Winforms: O
 
 Second is that you right-click the file and select "Winforms: Open file in designer", that will open a new window with designer.
 
-T![ezgif-2-1bbbcc990d](https://github.com/mdev896/vscode-winform-designer/assets/139204385/b7c5831d-8c49-4590-8969-84f430b68b92)
 hird is that you can use command palette again and select "Winforms: create project" to create a project.
 
 Fourth is that you can right your cs file and select "Winforms: compile and run" to crun the project.
