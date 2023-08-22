@@ -11,7 +11,7 @@ We will see...
 
 ## Installation
 
-I included a compiled version of swd4cs in repo. you just need to put that folder under %appdata%\vscode (or %appdata%\vscodium) then install the extension.
+I included a compiled version of swd4cs in repo. you just need to put that folder under %appdata%\vscode (or %appdata%\vscodium) then install the extension. Note: you need .NET sdk already installed.
 
 ## Usage
 
